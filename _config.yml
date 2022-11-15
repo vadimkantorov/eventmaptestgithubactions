@@ -1,6 +1,6 @@
 data_dir: .
-#layouts_dir: _jekyll
-#includes_dir: _jekyll
+layouts_dir: _jekyll
+includes_dir: _jekyll
 
 defaults:
   - scope:

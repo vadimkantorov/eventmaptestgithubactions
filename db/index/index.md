@@ -10,9 +10,9 @@ organizers:
 
 campaigns:
   - title: Test campaign
-    date: 
-     - 2022-02-20
-     - 2022-11-28
+    date: 2022-02-20
+#     - 2022-02-20
+#     - 2022-11-28
     logo: 2022-stopmurderization.jpg
 
 events:

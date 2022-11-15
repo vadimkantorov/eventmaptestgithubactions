@@ -1,8 +1,8 @@
 ---
 title: "#StopMurderiZation"
-date: 
- - 2022-02-20
- - 2022-11-28
+date: 2022-02-20
+# - 2022-02-20
+# - 2022-11-28
 logo: 2022-stopmurderization.jpg
 telegram: https://t.me/vadimkantorov
 email: vadimkantorov@gmail.com

@@ -1,0 +1,6 @@
+
+    {% for p in site.pages %}
+        {% if p.path contains "data/campaigns/" and p.layout == "events" %}
+            {% assign campaigns = campaigns | push: p %}
+        {% endif %}
+    {% endfor %}
